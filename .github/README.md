@@ -15,7 +15,7 @@ As a proof of concept, fractal knowlege defines and uses the [[fractal knowledge
 
 ## In depth
 - [Fundamentals](../note/fundamentals.md)
-- [Fundamentals](../note/fundamentals.md)
+- [Getting started](../note/getting started.md)
 - [Getting started](../note/getting started.md)
 - [Basic usage](../note/basic usage.md)
 - [Core ruleset](../ruleset/fractal knowledge core ruleset.md)
