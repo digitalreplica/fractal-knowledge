@@ -27,37 +27,48 @@ The breadcrumbs plugin provides two great way to navigate. The matrix view is a 
 ### A simple note
 The `general knowledge` topic is intended for quick notes about anything. It's the default topic for new notes. A note might look like
 
-> [!info] me/private/notes/note/my note
-> `---`
-> `a/note`
-> `---`
-> `in:: [[general knowledge]]`
-> 
-> I have a note!
+me/private/notes/note/my note
+```
+---
+a/note
+---
+in:: [[general knowledge]]
+
+I have a note!
+```
 
 ### Notes around a new topic
 
 The simplest example is a single topic with a single note.
 
-> [!info] me/private/notes/topic/cooking
-> `---`
-> `a/topic`
-> `---`
-> `in:: [[topics]]`
+me/private/notes/topic/cooking
+```
+---
+a/topic
+---`
+in:: [[topics]]
+```
 
-> [!info] me/private/notes/note/my cooking note
-> `---`
-> `a/note`
-> `---`
-> `in:: [[cooking]]`
-> 
-> I have a cooking note!
+me/private/notes/note/my cooking note
+```
+---
+a/note
+---
+in:: [[cooking]]
+
+I have a cooking note!
+```
 
 ### Creating a shared repository
 - Have one topic `in [[topics]]` so it'll show up on other's topics list.
 - Make other topics as needed that point to your topic.
 - Create notes pointing to your topics.
 - Create a `repository` note, with at least the url to your knowledge repository.
+
+### Using a shared repository
+Using this repository as an example, open [fractal-knowledge](https://github.com/digitalreplica/fractal-knowledge). Click the `Code` button to download a zip file. It should unzip into a `fractal-knowledge`. Create the folders `digitalreplica/public`, and move the `fractal-knowledge` folder there.
+
+Open [[topics]]. You should see the [[fractal knowledge]] topic. 
 
 ## Shared knowledge example
 ### Recipes
@@ -69,4 +80,3 @@ me/private/notes/recipe/my grandmothers biscuits
 markbittman/public/recipes/recipe/stuffed flank steak
 michaelruhlman/public/recipes/recipe/east carolina barbecue
 ```
-
