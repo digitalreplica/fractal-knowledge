@@ -14,12 +14,12 @@ With this approach, two or more people that agree on a set of rules can share re
 As a proof of concept, fractal knowlege defines and uses the [[fractal knowledge core ruleset]]. It describes how to store, tag, and link notes together in simple topic structures. You can follow it to pull this repository directly into your knowledge set, and then create your own repositories of knowledge for sharing in the same format.
 
 ## In depth
-- [Fundamentals](./note/fundamentals.md)
-- [Getting started](./note/getting started.md)
-- [Basic usage](./note/basic usage.md)
-- [Core ruleset](./ruleset/fractal knowledge core ruleset.md)
-- [Advanced usage](./note/advanced usage.md)
-- [Outstanding questions](./note/outstanding questions.md)
+- [Fundamentals](../note/fundamentals.md)
+- [Getting started](../note/getting started.md)
+- [Basic usage](../note/basic usage.md)
+- [Core ruleset](../ruleset/fractal knowledge core ruleset.md)
+- [Advanced usage](../note/advanced usage.md)
+- [Outstanding questions](../note/outstanding questions.md)
 
 ## Future Plans
 Current experiments include
