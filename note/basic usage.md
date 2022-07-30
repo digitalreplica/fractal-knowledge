@@ -45,7 +45,7 @@ me/private/notes/topic/cooking
 ```
 ---
 a/topic
----`
+---
 in:: [[topics]]
 ```
 
@@ -66,7 +66,7 @@ I have a cooking note!
 - Create a `repository` note, with at least the url to your knowledge repository.
 
 ### Using a shared repository
-Using this repository as an example, open [fractal-knowledge](https://github.com/digitalreplica/fractal-knowledge). Click the `Code` button to download a zip file. It should unzip into a `fractal-knowledge`. Create the folders `digitalreplica/public`, and move the `fractal-knowledge` folder there.
+Using this repository as an example, open [fractal-knowledge](https://github.com/digitalreplica/fractal-knowledge). Click the `Code` button to download a zip file. It should unzip into a `fractal-knowledge` folder. Create the folders `digitalreplica/public`, and move the `fractal-knowledge` folder there.
 
 Open [[topics]]. You should see the [[fractal knowledge]] topic. 
 

@@ -25,11 +25,11 @@ Three levels of sharing are defined.
 Fractal knowledge can use any sharing method for knowledge repositories
 
 ### Topics
-Topics organize notes, describing what the knowledge is about. If you've heard of "maps of content" (MOCs), it's the same thing
+Topics organize notes, describing what the knowledge is about. It's the same thing as "maps of content" (MOCs).
 
 The core ruleset estabishes some fundamental topics like `topics` and `repositories`. The topics in knowledge repositories link into these special topics, and that's how the automagic linking happens. You can see this in action at the top of this file.
 
-Topic can contain subtopics. All that means is that one topic links to another topic instead of the special `topics` topic.
+Topics can contain subtopics. All that means is that one topic links to another topic instead of the special `topics` topic.
 
 ### Notes
 Notes hold knowledge in human-readable [markdown](https://help.obsidian.md/How+to/Format+your+notes) format. The Obsidian format includes wikilinks which are used here as the primary linking method.
@@ -59,14 +59,14 @@ All notes are saved using the same naming convention, using four levels of folde
 - Repository name: name of repository
 - Type: type of note
 
-So if you included this repository in your knowledge, this note would be stored at `digitalreplica/public/fractal knowlege/note/fundamentals`.
+So if you included this repository in your knowledge, this note would be stored at `digitalreplica/public/fractal-knowlege/note/fundamentals`.
 
 A default repository is defined and located at `me/private/notes`. It should be obvious that you own the notes, they're your private notes, not to be shared. Inside the repository, a note would go in the note folder, a topic will go in the topic folder.
 
 This makes it easy to find all notes of a given type across all repositories, by searching like `/topic/`. 
 
 ### Templates
-There are templates to make all this easier, but there's no convention (yet) for where to put them. It's assumed that many people will publish templates, so a similar naming convention to notes may be needed.
+There are templates to make all this easier, but there's no convention (yet) for where to put them. The template uses `_templates` It's assumed that many people will publish templates, so a similar naming convention to notes may be needed.
 
 ### Knowledge sets
 All of these pieces combine into a knowledge set. This is simply a collection of knowledge repositories and a couple of special files.

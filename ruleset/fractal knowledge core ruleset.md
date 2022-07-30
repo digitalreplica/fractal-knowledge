@@ -21,7 +21,7 @@ in:: [[fractal knowledge]]
 	- must contain:
 		- a tag in the form `a/{type}`. The default tag is `a/note`
 		- an [inline field](https://blacksmithgu.github.io/obsidian-dataview/data-annotation/) named `in` with wikilink(s) to `topic`(s). The special `topics` topic should link to the index
-		- This nomenclature is shortened in `ruleset`(s) to "a `{type}` named `{note name}` in `{topic}`"
+			- This nomenclature is shortened in `ruleset`(s) to "a `{type}` named `{note name}` in `{topic}`"
 - A knowledge `repository` is a collection of notes following fractal knowledge ruleset(s)
 - All knowledge`repository`(s)
 	- when private

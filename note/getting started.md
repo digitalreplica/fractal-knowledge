@@ -38,7 +38,7 @@ a/topic
 ---
 in:: [[topics]]
 
-Create templates for notes and topics.
+A default topic for notes
 ```
 
 **_templates/fractal-knowledge-core/a note template**
