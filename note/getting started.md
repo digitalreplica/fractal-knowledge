@@ -6,46 +6,56 @@ in:: [[fractal knowledge]]
 # Getting started
 ## Creating a knowledge set
 ### With a template
-
+A template for starting a knowledge set is located at [digitalreplica/fractal-knowledge-core-template |  GitHub](https://github.com/digitalreplica/fractal-knowledge-core-template) with instructions on how to download it and open it as an [Obsidian vault](https://help.obsidian.md/User+interface/Vault+switcher#Create+new+vaults)
 
 ### Manually
-Creating an empty knowledge set is simple, with only five files needed. Start by creating the index and topics.
+Creating an empty knowledge set is simple, with only a few files needed. Start by creating a new Obsidian vault, and add these files.
 
-> [!info] me/private/notes/index/index
-> `---`
-> `a/index`
-> `---`
-> `in:: [[topics]]`
-> 
-> `All knowledge starts with [[topics]]`
+**me/private/notes/index/index**
+```
+---
+a/index
+---
+in:: [[topics]]
 
-> [!info] me/private/notes/topic/topics
-> `---`
-> `a/topic`
-> `---`
-> `in:: [[index]]`
+All knowledge starts with [[topics]]
+```
 
-It is useful to create a default topic for notes
+**me/private/notes/topic/topics**
+```
+---
+a/topic
+---
+in:: [[index]]
 
-> [!info] me/private/notes/topics/general knowledge
-> `---`
-> `a/topic`
-> `---`
-> `in:: [[topics]]`
+The default topic to link topics to.
+```
 
-Create templates for notes and topics. 
+**me/private/notes/topics/general knowledge**
+```
+---
+a/topic
+---
+in:: [[topics]]
 
-> [!info] _templates/fractal-knowledge-core/a note template
-> `---`
-> `a/note`
-> `---`
-> `in:: [[general knowledge]]`
+Create templates for notes and topics.
+```
 
-> [!info] _templates/fractal-knowledge-core/a topic template
-> `---`
-> `a/topic`
-> `---`
-> `in:: [[topics]]`
+**_templates/fractal-knowledge-core/a note template**
+```
+---
+a/note
+---
+in:: [[general knowledge]]
+```
+
+**_templates/fractal-knowledge-core/a topic template**
+```
+---
+a/topic
+---
+in:: [[topics]]
+```
 
 # Configure Obsidian
 Here are Obsidian configuration settings that work well with fractal knowledge
