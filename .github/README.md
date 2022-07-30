@@ -15,12 +15,11 @@ As a proof of concept, fractal knowlege defines and uses the [[fractal knowledge
 
 ## In depth
 - [Fundamentals](../note/fundamentals.md)
-- [Getting started](../note/getting started.md)
-- [Getting started](../note/getting started.md)
-- [Basic usage](../note/basic usage.md)
-- [Core ruleset](../ruleset/fractal knowledge core ruleset.md)
-- [Advanced usage](../note/advanced usage.md)
-- [Outstanding questions](../note/outstanding questions.md)
+- [Getting started](../note/getting%20started.md)
+- [Basic usage](../note/basic%20usage.md)
+- [Core ruleset](../ruleset/fractal%20knowledge%20core%20ruleset.md)
+- [Advanced usage](../note/advanced%20usage.md)
+- [Outstanding questions](../note/outstanding%20questions.md)
 
 ## Future Plans
 Current experiments include
