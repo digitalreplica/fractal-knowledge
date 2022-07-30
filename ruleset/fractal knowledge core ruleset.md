@@ -34,7 +34,7 @@ in:: [[fractal knowledge]]
 	- when shared or public
 		- should
 			- have a `topic`(s) `in` `[[topics]]`
-			- have a `repo`  in `[[repositories]]` with fields defining the source url, owner, sharing level, and ruleset(s) used
+			- have a `repository`  in `[[repositories]]` with fields defining the source url, owner, sharing level, and ruleset(s) used
 		- must not have any
 			- `index` notes
 			- `topic`(s) named `[index, topics, repositories, rulesets]`
