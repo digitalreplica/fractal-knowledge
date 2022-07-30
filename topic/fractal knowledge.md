@@ -1,3 +1,8 @@
+---
+tags: a/topic
+---
+in:: [[topics]]
+
 # Fractal Knowledge
 A shareable and scalable knowledge structure.
 
@@ -11,15 +16,15 @@ A shareable and scalable knowledge structure.
 
 With this approach, two or more people that agree on a set of rules can share repositories of knowledge and have them automagically link together.
 
-As a proof of concept, fractal knowlege defines and uses the [fractal knowledge core ruleset](../ruleset/fractal%20knowledge%20core%20ruleset.md). It describes how to store, tag, and link notes together in simple topic structures. You can follow it to pull this repository directly into your knowledge set, and then create your own repositories of knowledge for sharing in the same format.
+As a proof of concept, fractal knowlege defines and uses the [[fractal knowledge core ruleset]]. It describes how to store, tag, and link notes together in simple topic structures. You can follow it to pull this repository directly into your knowledge set, and then create your own repositories of knowledge for sharing in the same format.
 
 ## In depth
-- [Fundamentals](../note/fundamentals.md)
-- [Getting started](../note/getting%20started.md)
-- [Basic usage](../note/basic%20usage.md)
-- [Core ruleset](../ruleset/fractal%20knowledge%20core%20ruleset.md)
-- [Advanced usage](../note/advanced%20usage.md)
-- [Outstanding questions](../note/outstanding%20questions.md)
+- [[fundamentals|Fundamentals]]
+- [[getting started|Getting started]]
+- [[basic usage|Basic usage]]
+- [[fractal knowledge core ruleset|Core ruleset]]
+- [[advanced usage|Advanced usage]]
+- [[outstanding questions|Outstanding questions]]
 
 ## Future Plans
 Current experiments include
