@@ -8,10 +8,10 @@ in:: [[fractal knowledge]]
 - A `template` is a [snippet of text](https://help.obsidian.md/Plugins/Templates). Rules for`template`(s) and collections of `template`(s) are not yet defined.
 - All `note`(s)
 	- must have a:
-			- `owner`. The default owner is `me`.
-			- `sharing level`: Must be one of `private`, `shared`, `public` with a default sharing level of `private`.
-			- `repository`: The default repository is `notes`
-			- `type`. Type must be a singular noun. The default type is `note`.
+		- `owner`. The default owner is `me`.
+		- `sharing level`: Must be one of `private`, `shared`, `public` with a default sharing level of `private`.
+		- `repository`: The default repository is `notes`
+		- `type`. Type must be a singular noun. The default type is `note`.
 	- must be stored with the naming convention `{owner}/{sharing level}/{repository}/{type}/{note name}`
 	- may be one of these or other types:
 		- The index note has the type `index`
@@ -27,7 +27,7 @@ in:: [[fractal knowledge]]
 	- when private
 		- may
 			- have a `index`  named `index` in `[[topics]]`
-			- have a `topic` named 
+			- have a `topic` named
 				- `topics`  in `[[topics]]`
 				- `repositories` in `[[topics]]`
 				- `rulesets` in `[[topics]]`
