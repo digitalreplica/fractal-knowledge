@@ -1,6 +1,8 @@
 # Fractal Knowledge
 A shareable and scalable knowledge structure.
 
+NOTE: This work is evolving into https://github.com/digitalreplica/conceptual-knowledge
+
 ## Fractals
 [Fractals](https://en.wikipedia.org/wiki/Fractal) are geometric shapes using simple rules to create intricate details that repeat when you zoom in or out.
 
